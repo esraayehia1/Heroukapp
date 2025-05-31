@@ -1,4 +1,4 @@
-#### Herokuapp Website Automation Testing
+# Herokuapp Website Automation Testing
 ## Key Features
 - Selenium WebDriver integrated with Java
 - Modular Page Object Model (POM) structure
@@ -19,7 +19,7 @@
 - Parallel execution using TestNG
 
 ## Prerequisites
-# Make sure the following are installed on your machine:
+ #### Make sure the following are installed on your machine:
 - Java JDK (version 8 or above)
 - Maven (for build and dependency management)
 - IntelliJ IDEA or any Java IDE
